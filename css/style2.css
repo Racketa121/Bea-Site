@@ -40,3 +40,9 @@ nav a {
 th {
     background-color: gray;
 }
+
+footer {
+    padding: 30px 0;
+    text-align: center;
+    background-color: gold;
+}
